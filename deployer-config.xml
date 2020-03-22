@@ -1,0 +1,7 @@
+<config>
+    <host>my-host.net</host>
+    <user>myUserName</user>
+    <password>myP4ssw0rd</password>
+    <root>/myPath/without/endingSlash</root>
+    <path>theFolder/toPutTheApp/WithoutAnySlash/BeforeOrAfter</path>
+</config>
